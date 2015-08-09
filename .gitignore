@@ -1,0 +1,10 @@
+*.swp
+*.o
+*.bak
+*.db
+*.txt
+run*
+tags
+syncReaders
+docs/
+tests/
